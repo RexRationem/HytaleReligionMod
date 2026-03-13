@@ -1,0 +1,13 @@
+{
+  "Id": "Religion_Main_Altar",
+  "Material": "Stone",
+  "Textures": [
+    {
+      "All": "BlockTextures/religion_main_altar.png"
+    }
+  ],
+  "Model": "Blocks/religion_main_altar/model.blockymodel",
+  "Interactions": {
+    "Secondary": "*religion_Main_Altar_Interactions_Secondary"
+  }
+}

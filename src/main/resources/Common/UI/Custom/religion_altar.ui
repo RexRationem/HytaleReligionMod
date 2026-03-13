@@ -1,0 +1,58 @@
+Group {
+  Anchor: (Left: 0, Top: 0, Right: 0, Bottom: 0);
+
+  Label {
+    Text: "Religion Altar";
+    Anchor: (Top: 20, Left: 20);
+  }
+
+  TextButton {
+    Text: "Religion";
+    Anchor: (Top: 60, Left: 20, Width: 180, Height: 32);
+  }
+
+  TextButton {
+    Text: "Members";
+    Anchor: (Top: 100, Left: 20, Width: 180, Height: 32);
+  }
+
+  TextButton {
+    Text: "Sacrifice";
+    Anchor: (Top: 140, Left: 20, Width: 180, Height: 32);
+  }
+
+  TextButton {
+    Text: "Confession";
+    Anchor: (Top: 180, Left: 20, Width: 180, Height: 32);
+  }
+
+  TextButton {
+    Text: "Miracles";
+    Anchor: (Top: 220, Left: 20, Width: 180, Height: 32);
+  }
+
+  TextButton {
+    Text: "Holy War";
+    Anchor: (Top: 260, Left: 20, Width: 180, Height: 32);
+  }
+
+  TextButton {
+    Text: "Relics";
+    Anchor: (Top: 300, Left: 20, Width: 180, Height: 32);
+  }
+
+  TextButton {
+    Text: "Doctrines";
+    Anchor: (Top: 340, Left: 20, Width: 180, Height: 32);
+  }
+
+  TextButton {
+    Text: "Pilgrimage";
+    Anchor: (Top: 380, Left: 20, Width: 180, Height: 32);
+  }
+
+  TextButton {
+    Text: "History";
+    Anchor: (Top: 420, Left: 20, Width: 180, Height: 32);
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "TranslationProperties": {
+    "Name": "items.religion_shrine.name",
+    "Description": "items.religion_shrine.description"
+  },
+  "Id": "Religion_Shrine",
+  "MaxStack": 1,
+  "Icon": "Icons/ItemsGenerated/religion_shrine.png",
+  "Categories": [
+    "Blocks.Decoration"
+  ],
+  "PlayerAnimationsId": "Block",
+  "Set": "Rock_Stone",
+  "BlockType": {
+    "Material": "Solid",
+    "DrawType": "Cube",
+    "Group": "Stone",
+    "Flags": {},
+    "Gathering": {
+      "Breaking": {
+        "GatherType": "Rocks",
+        "ItemId": "Religion_Shrine"
+      }
+    },
+    "BlockParticleSetId": "Stone",
+    "Textures": [
+      {
+        "All": "BlockTextures/religion_shrine.png"
+      }
+    ],
+    "ParticleColor": "#8fcf9a",
+    "BlockSoundSetId": "Stone",
+    "BlockBreakingDecalId": "Breaking_Decals_Rock"
+  },
+  "Container": {
+    "Capacity": 1
+  }
+}

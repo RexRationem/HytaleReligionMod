@@ -1,0 +1,9 @@
+{
+  "Id": "*religion_Main_Altar_Interactions_Secondary",
+  "Interactions": [
+    {
+      "Type": "Custom",
+      "CustomId": "religion_altar_interaction"
+    }
+  ]
+}

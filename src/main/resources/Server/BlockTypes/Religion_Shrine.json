@@ -1,0 +1,10 @@
+{
+  "Id": "Religion_Shrine",
+  "Material": "Stone",
+  "Textures": [
+    {
+      "All": "BlockTextures/religion_shrine.png"
+    }
+  ],
+  "Model": "Blocks/Religion_Shrine/model.blockymodel"
+}

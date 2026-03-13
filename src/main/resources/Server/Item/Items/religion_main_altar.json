@@ -1,0 +1,17 @@
+{
+  "TranslationProperties": {
+    "Name": "items.religion_main_altar.name",
+    "Description": "items.religion_main_altar.description"
+  },
+  "Id": "religion_main_altar",
+  "MaxStack": 1,
+  "Icon": "Icons/ItemsGenerated/religion_main_altar.png",
+  "Categories": [
+    "Blocks.Decoration"
+  ],
+  "PlayerAnimationsId": "Block",
+  "Set": "Rock_Stone",
+  "BlockType": {
+    "Id": "Religion_Main_Altar"
+  }
+}

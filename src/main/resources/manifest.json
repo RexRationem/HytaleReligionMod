@@ -1,0 +1,21 @@
+{
+  "Group": "religion.mod",
+  "Name": "ReligionMod",
+  "Version": "1.0.0",
+  "Description": "A religion system for Hytale with altars, piety, miracles, relics, and holy war.",
+  "Authors": [
+    {
+      "Name": "RexThundercock",
+      "Email": "",
+      "Url": ""
+    }
+  ],
+  "Website": "",
+  "Main": "religion.ReligionMod",
+  "Dependencies": {},
+  "OptionalDependencies": {},
+  "LoadBefore": {},
+  "DisabledByDefault": false,
+  "IncludesAssetPack": true,
+  "SubPlugins": []
+}

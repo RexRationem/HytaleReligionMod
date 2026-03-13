@@ -1,0 +1,78 @@
+{
+  "basePietyCap": 100,
+  "pietyPerLayman": 100,
+  "miracleCost": 100,
+  "miracleChanceCapPercent": 50.0,
+  "holyWarDeclarationCost": 500,
+  "holyWarDurationHours": 24,
+  "holyWarRepeatKillCooldownMinutes": 5,
+  "confessionPietyGain": 10,
+  "confessionCooldownHours": 24,
+  "apostasyHours": 24,
+  "curseFreezeHours": 6,
+  "curseHealthCapReductionPercent": 25.0,
+  "curseStaminaDrainPerMinute": 10.0,
+  "curseAltarLockout": true,
+  "altarMinChunkDistance": 5,
+  "altarDistanceIsCenterToCenter": true,
+  "mainAltarMoveCostPiety": 500,
+  "mainAltarDestroyedPietyLoss": 500,
+  "mainAltarBaseRelicSlots": 1,
+  "mainAltarMaxRelicSlots": 15,
+  "mainAltarUpgradeBaseCost": 15,
+  "mainAltarUpgradeCostIncreasePerTier": 5,
+  "mainAltarUpgradeDonationItemId": "hytale:ingredient_gold_bar",
+  "normalAltarRelicSlots": 5,
+  "shrineRadius": 20,
+  "pilgrimageTimeWindowMinutes": 60,
+  "pilgrimageCooldownDays": 7,
+  "pilgrimageRewardPiety": 100,
+  "bannedItemPenaltyPiety": 10,
+  "bannedItemPenaltyCooldownMinutes": 60,
+  "encouragedItemMaxBonusPercent": 50.0,
+  "doctrineRespecCostPiety": 500,
+  "relicSacrificeBonusFlat": 5,
+  "stolenRelicDailyDrainPiety": 25,
+  "stolenRelicDailyGainPiety": 25,
+  "holidayFreeMiracleRollsPerHoliday": 1,
+  "sacrifices": [
+    {
+      "itemId": "hytale:ingredient_gold_bar",
+      "pietyGain": 10,
+      "cooldownMinutes": 60,
+      "maxUsesPerDay": 24,
+      "mainAltarOnly": false
+    },
+    {
+      "itemId": "hytale:diamond_block",
+      "pietyGain": 100,
+      "cooldownMinutes": 1440,
+      "maxUsesPerDay": 1,
+      "mainAltarOnly": false
+    }
+  ],
+  "doctrines": {
+    "INCREASED_CONFESSION_PIETY": 25.0,
+    "INCREASED_SACRIFICE_PIETY": 25.0,
+    "LOWER_MIRACLE_COST": 20.0,
+    "STRONGER_BUFF_MIRACLES": 25.0,
+    "BETTER_ITEM_MIRACLES": 25.0,
+    "REDUCED_HOLY_WAR_PIETY_LOSS": 25.0,
+    "FASTER_CURSE_RECOVERY": 25.0,
+    "STRONGER_SHRINE_RADIUS": 25.0
+  },
+  "miracleBuffPool": [
+    "STAMINA_REGEN",
+    "HEALTH_REGEN",
+    "MOVE_SPEED",
+    "DAMAGE_BOOST",
+    "DEFENSE_BOOST",
+    "GATHER_SPEED"
+  ],
+  "miracleBuffDurationMinutes": 10,
+  "miracleItemPool": [
+    "hytale:gold_ingot",
+    "hytale:healing_potion",
+    "hytale:rare_food"
+  ]
+}

@@ -1,0 +1,4 @@
+items.religion_main_altar.name = Main Altar
+items.religion_main_altar.description = The central altar used to found and govern a religion.
+items.religion_shrine.name = Shrine
+items.religion_shrine.description = A small sacred structure that radiates blessings when holding a relic.
